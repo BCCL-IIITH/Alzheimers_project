@@ -1,3 +1,2 @@
---------------------------
-Alzheimer's project
+# Alzheimer's project
 --------------------------
