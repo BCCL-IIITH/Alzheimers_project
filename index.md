@@ -4,7 +4,7 @@ layout: default
 
 # Alzheimer's project
 
-[Link to another page](./another-page.html).
+[Link to the Alzheimer's Disease Neuroimaging Initiative (ADNI)](https://adni.loni.usc.edu/).
 
 There should be whitespace between paragraphs.
 
