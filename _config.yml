@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 #######################################################################################
 # Book settings
@@ -6,4 +6,5 @@ title                       : "Alzheimer's disease prediction project"  # The ti
 author                      : Developed at BCCL-IIITH  # The author of the project
 copyright                   : "2024"  # Copyright year to be placed in the footer
 exclude_patterns            : []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
+description                 : Models that are developed on ADNI dataset will be deposited here.              
 
