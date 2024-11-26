@@ -1,2 +1,8 @@
 # Alzheimers_project
-Alzheimer's project
+
+To be updated:
+
+Introduction
+Exploratory Data Analysis
+Baseline analysis
+
