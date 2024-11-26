@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 
----
-layout: post
-title: Alzheimers disease prediction
----
+#######################################################################################
+# Book settings
+title                       : "Alzheimer's disease prediction project"  # The title of the project. Will be placed in the left navbar.
+author                      : Developed at BCCL-IIITH  # The author of the project
+copyright                   : "2024"  # Copyright year to be placed in the footer
+exclude_patterns            : []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
+
