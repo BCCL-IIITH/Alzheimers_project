@@ -4,18 +4,47 @@ layout: default
 
 # Alzheimer's project
 
-[Link to the Alzheimer's Disease Neuroimaging Initiative (ADNI)](https://adni.loni.usc.edu/).
+[Link to the Alzheimer's Disease Neuroimaging Initiative (ADNI) website from where you can access the data](https://adni.loni.usc.edu/).
 
 # Introduction
 --------------
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Alzheimer's disease (AD) is a neurodegenerative disorder causing devastating effects on the brain
+and cognition, if not intervened with treatment.
+While the symptoms may be minimal at the early stages of AD e.g., Mild Cognitive Impairment (MCI),
+but as the disease progress the symptoms will get worse in return affect daily life activities.
+The rate at which the disease progresses varies between
+individuals. While there is no effective cure till now, but medicines can delay the progress.
+Therefore, the central goal of the ADNI is to get a better understanding of the AD pathological
+pathway via developing biomarkers for the improvement of clinical trials.
+
+AD can be detected by the presence of the abnormal protein deposits in the brain
+known as amyloid-Beta plaques and tau tangles associated with synapse loss and neurodegenration.
+Currently, the detection of conventional AD biomarkers
+require expensive and invasive diagnostic tools such as Positron Emission Tomography (PET),
+Magnetic Resonance Imaging (MRI), and Cerebro Spinal Fluid (CSF) sampling.
+
+Schematic outline of the current understanding of the hypothetical timeline for the onset
+and progression of AD neurodegeneration and cognitive impairments
+[Michael W. Weiner et al. Alz. Dement. (2017)](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.11.007)
+
+![Jack et al. 2010 hypothetical model of dynamic biomarkers of the AD pathology](imgs/2010_model_alz_disease.png "Jack et al. model")
+
 
 ## Contents
 -----------
 
 ## Background
+-------------
 
+![Different phases of ADNI over time](imgs/adni_phases_over_time.png "Multiple phases of ADNI")
+
+## Data description
+-------------------
+
+![Data distribution over different phases](imgs/data_description.png "Data description of ADNI over different phases")
+
+## Header 2
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
