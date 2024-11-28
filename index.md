@@ -24,12 +24,25 @@ Currently, the detection of conventional AD biomarkers
 require expensive and invasive diagnostic tools such as Positron Emission Tomography (PET),
 Magnetic Resonance Imaging (MRI), and Cerebro Spinal Fluid (CSF) sampling.
 
-Schematic outline of the current understanding of the hypothetical timeline for the onset
-and progression of AD neurodegeneration and cognitive impairments
-[Michael W. Weiner et al. Alz. Dement. (2017)](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.11.007)
+Questions are formulation as follows?
+
+```
+- How do we think about predicting the onset of AD ?
+- What are the methods ?
+- What are the biomarkers that best inform the progression of AD ?
+```
+
+Below discusses the broad overview of the major biomarkers of AD. The schematic outline of the
+current understanding of the hypothetical timeline for the onset and progression of AD neurodegeneration and cognitive impairments
+[Michael W. Weiner et al. Alz. Dement. (2017)](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.11.007).
 
 ![Jack et al. 2010 hypothetical model of dynamic biomarkers of the AD pathology](imgs/2010_model_alz_disease.png "Jack et al. model")
+*Figure 1: Jack et al. 2010 hypothetical model of dynamic biomarkers of the AD pathology, taken from Jack et al. (2010), Lancet Neurology*
 
+The model shown above on *Fig. 1.* describes the temporal ordering of biomarkers of AD pathology relative to stages in the clinical onset
+and progression of AD based on Jack et al. 2010. On the horizontal axis is the clinical disease which is divided into three clinical stages:
+Cognitively Normal (CN), Mild Cognitive Impairment (MCI), and dementia. Whereas on the vertical axis shows the range from normal to abnormal
+for each of the biomarker.
 
 ## Contents
 -----------
