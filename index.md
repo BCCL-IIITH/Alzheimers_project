@@ -9,8 +9,8 @@ layout: default
 # Introduction
 --------------
 
-Alzheimer's disease (AD) is a neurodegenerative disorder causing devastating effects on the brain
-and cognition, if not intervened with treatment.
+Alzheimer's disease (AD) is a neurodegenerative disorder causing devastating changes in the brain
+and cognition, if not intervened.
 While the symptoms may be minimal at the early stages of AD e.g., Mild Cognitive Impairment (MCI),
 but as the disease progress the symptoms will get worse in return affect daily life activities.
 The rate at which the disease progresses varies between
