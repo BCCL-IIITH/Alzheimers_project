@@ -14,9 +14,12 @@ and cognition, if not intervened.
 While the symptoms may be minimal at the early stages of AD e.g., Mild Cognitive Impairment (MCI),
 but as the disease progress the symptoms will get worse in return affect daily life activities.
 The rate at which the disease progresses varies between
-individuals. While there is no effective cure till now, but medicines can delay the progress.
+individuals. While there is no effective cure till now, but treatment can delay the progress.
 Therefore, the central goal of the ADNI is to get a better understanding of the AD pathological
 pathway via developing biomarkers for the improvement of clinical trials.
+
+### Biomarkers
+--------------
 
 AD can be detected by the presence of the abnormal protein deposits in the brain
 known as amyloid-Beta plaques and tau tangles associated with synapse loss and neurodegenration.
@@ -24,12 +27,12 @@ Currently, the detection of conventional AD biomarkers
 require expensive and invasive diagnostic tools such as Positron Emission Tomography (PET),
 Magnetic Resonance Imaging (MRI), and Cerebro Spinal Fluid (CSF) sampling.
 
-Questions are formulation as follows?
+Questions are formulated as follows?
 
 ```
 - How do we think about predicting the onset of AD ?
-- What are the methods ?
 - What are the biomarkers that best inform the progression of AD ?
+- What are the methods for disease progressive biomarkers ?
 ```
 
 Below discusses the broad overview of the major biomarkers of AD. The schematic outline of the
@@ -37,10 +40,10 @@ current understanding of the hypothetical timeline for the onset and progression
 [Michael W. Weiner et al. Alz. Dement. (2017)](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.11.007).
 
 ![Jack et al. 2010 hypothetical model of dynamic biomarkers of the AD pathology](imgs/2010_model_alz_disease.png "Jack et al. model")
-*Figure 1: Jack et al. 2010 hypothetical model of dynamic biomarkers of the AD pathology, taken from Jack et al. (2010), Lancet Neurology*
+*Figure 1: Jack et al. 2010 hypothetical model of dynamicity in the biomarkers while the progression of the AD pathology, taken from [Jack et al. (2010), Lancet Neurology](https://doi.org/10.1016/S1474-4422(09)70299-6)*
 
-The model shown above on *Fig. 1.* describes the temporal ordering of biomarkers of AD pathology relative to stages in the clinical onset
-and progression of AD based on Jack et al. 2010. On the horizontal axis is the clinical disease which is divided into three clinical stages:
+The model shown above on *Fig. 1.* describes the temporal order of the biomarkers of AD pathology relative to stages in the clinical onset
+and progression of AD. On the horizontal axis is the clinical disease which is divided into three clinical stages:
 Cognitively Normal (CN), Mild Cognitive Impairment (MCI), and dementia. Whereas on the vertical axis shows the range from normal to abnormal
 for each of the biomarker.
 
