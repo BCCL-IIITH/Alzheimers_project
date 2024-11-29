@@ -30,9 +30,9 @@ Magnetic Resonance Imaging (MRI), and Cerebro Spinal Fluid (CSF) sampling.
 Questions are formulated as follows?
 
 ```
-- How do we think about predicting the onset of AD ?
-- What are the biomarkers that best inform the progression of AD ?
-- What are the methods for disease progressive biomarkers ?
+1.  How do we think about predicting the onset of AD ?
+2.  What are the biomarkers that best inform the progression of AD ?
+3.  What are the Machine Learning or Deep Learning methods for 2. ?
 ```
 
 Below discusses the broad overview of the major biomarkers of AD. The schematic outline of the
